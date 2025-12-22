@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"496640954e1e83bd","type":"group","x":300,"y":-220,"width":760,"height":720,"label":"24V转220V"},
+		{"id":"d2ca5d5bfdaa9624","type":"text","text":"24V电池","x":-114,"y":-160,"width":250,"height":60},
+		{"id":"ff4712337973cfa3","type":"text","text":"24V输入","x":340,"y":-156,"width":139,"height":50},
+		{"id":"6a70b8a60b199ae8","type":"text","text":"风扇控制","x":330,"y":80,"width":250,"height":60},
+		{"id":"9575895cc9fe2abd","type":"text","text":"220V输出","x":780,"y":-160,"width":157,"height":50},
+		{"id":"5af25728f300be1e","type":"text","text":"采样","x":600,"y":320,"width":80,"height":60},
+		{"id":"909ccc41bd872238","x":340,"y":320,"width":156,"height":59,"type":"text","text":"母线电流采样"},
+		{"id":"28fcdbacaee6cd21","x":340,"y":240,"width":156,"height":56,"type":"text","text":"电池电压采样"},
+		{"id":"f471f249eee05bd5","x":340,"y":400,"width":156,"height":60,"type":"text","text":"市电电压采样"}
+	],
+	"edges":[
+		{"id":"95e6e612e1dc5293","fromNode":"d2ca5d5bfdaa9624","fromSide":"right","toNode":"ff4712337973cfa3","toSide":"left"},
+		{"id":"d1790c806eb36daf","fromNode":"5af25728f300be1e","fromSide":"left","toNode":"28fcdbacaee6cd21","toSide":"right"},
+		{"id":"eaab2a6a5cc0e175","fromNode":"5af25728f300be1e","fromSide":"left","toNode":"909ccc41bd872238","toSide":"right"},
+		{"id":"6767a270fa5b1c44","fromNode":"5af25728f300be1e","fromSide":"left","toNode":"f471f249eee05bd5","toSide":"right"}
+	]
+}

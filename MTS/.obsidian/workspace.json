@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c0262dd3c81c665a",
+        "id": "f8d9fcfebce819da",
         "type": "tabs",
         "children": [
           {
-            "id": "98412c4650683330",
+            "id": "27e4351777448d6f",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "控制算法.canvas",
+                "file": "控制算法/控制算法最终作业思维导图.canvas",
                 "viewState": {
-                  "x": 766.9999389648438,
-                  "y": 176.66677856445312,
-                  "zoom": 0
+                  "x": 476.8283153425402,
+                  "y": 226.82424281505052,
+                  "zoom": -1.2167867732744002
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "控制算法"
+              "title": "控制算法最终作业思维导图"
             }
           }
         ]
@@ -159,21 +159,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
+                "file": "控制算法/控制算法最终作业思维导图.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "控制算法最终作业思维导图 的大纲"
+            }
+          },
+          {
+            "id": "20bc4737affaa90f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,11 +197,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "98412c4650683330",
+  "active": "27e4351777448d6f",
   "lastOpenFiles": [
+    "控制算法/图片",
+    "控制算法/图片/Pasted image 20251222154159.png",
+    "控制算法/控制算法最终作业思维导图.canvas",
+    "Pasted image 20251222154135.png",
+    "Pasted image 20251222153904.png",
+    "未命名.md",
+    "控制算法",
     "未命名.base",
-    "控制算法.canvas",
-    "欢迎.md",
-    "未命名.md"
+    "欢迎.md"
   ]
 }

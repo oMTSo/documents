@@ -1,3 +1,5 @@
 {
-  "promptDelete": true
+  "promptDelete": true,
+  "useTab": true,
+  "focusNewTab": true
 }

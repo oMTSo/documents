@@ -4,53 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "fb016ac256649e92",
+        "id": "636af67d26471fa6",
         "type": "tabs",
         "children": [
           {
-            "id": "c3df6fa8ada7644d",
+            "id": "b773d68008eef808",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "控制算法/不同阶数的系统.md",
+                "file": "控制算法/0_大纲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "不同阶数的系统"
+              "title": "0_大纲"
             }
           },
           {
-            "id": "d6262345b1c71229",
+            "id": "1cff87be34748a19",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "控制算法/状态空间方程.md",
+                "file": "控制算法/Buck变换器系统模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "状态空间方程"
+              "title": "Buck变换器系统模型"
             }
           },
           {
-            "id": "34462f31c3871e08",
+            "id": "6dd67f9572a448bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "控制算法/微分方程.md",
+                "file": "H桥逆变器模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "微分方程"
+              "title": "H桥逆变器模型"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "da51bb9716eb1109",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "控制算法/0_大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "0_大纲 的反向链接列表"
             }
           },
           {
@@ -142,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
+                "file": "控制算法/0_大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "0_大纲 的出链列表"
             }
           },
           {
@@ -185,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "控制算法/0_大纲.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "0_大纲 的大纲"
             }
           },
           {
@@ -222,17 +222,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6262345b1c71229",
+  "active": "20bc4737affaa90f",
   "lastOpenFiles": [
-    "控制算法/微分方程.md",
-    "控制算法/状态空间方程.md",
-    "控制算法/未命名.md",
-    "控制算法/不定积分怎么理解.md",
-    "控制算法/不同阶数的系统.md",
     "控制算法/0_大纲.md",
     "控制算法/传递函数.md",
+    "H桥逆变器模型.md",
+    "控制算法/Buck变换器系统模型.md",
+    "控制算法/拉普拉斯变换.md",
+    "控制算法/狄拉克函数.md",
+    "控制算法/状态空间方程.md",
+    "控制算法/微分方程.md",
+    "控制算法/不同阶数的系统.md",
+    "控制算法/不定积分怎么理解.md",
+    "控制算法/未命名.md",
     "控制算法/控制算法最终作业思维导图.canvas",
-    "().md",
     "控制算法/图片",
     "控制算法/图片/Pasted image 20251222154159.png",
     "Pasted image 20251222154135.png",

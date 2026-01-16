@@ -4,90 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "636af67d26471fa6",
-        "type": "tabs",
+        "id": "52c617512b0db30b",
+        "type": "split",
         "children": [
           {
-            "id": "8d12f4e24530748a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控制算法/劳斯判据.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "劳斯判据"
-            }
+            "id": "fd2ce3b62883f448",
+            "type": "tabs",
+            "dimension": 43.96467124631992,
+            "children": [
+              {
+                "id": "fe86ee1ca0dad95f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "马原/思维导图.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "思维导图"
+                }
+              }
+            ]
           },
           {
-            "id": "730d35e0afa3ddf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控制算法/Buck变换器系统模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Buck变换器系统模型"
-            }
-          },
-          {
-            "id": "b9a4e9f4af6d8b80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控制算法/H桥逆变器模型.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "H桥逆变器模型"
-            }
-          },
-          {
-            "id": "b81f3bec2b570d1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控制算法/频率特性基本概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "频率特性基本概念"
-            }
-          },
-          {
-            "id": "48f2070009507eb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "控制算法/根轨迹法概念及规则.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "根轨迹法概念及规则"
-            }
-          },
-          {
-            "id": "10d2d0e358eb13ed",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
-            }
+            "id": "4d5b8267cb2c959f",
+            "type": "tabs",
+            "dimension": 56.03532875368008,
+            "children": [
+              {
+                "id": "00aedd4f835af4bd",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {},
+                  "icon": "dot-network",
+                  "title": "Mind Map of 思维导图"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -250,36 +209,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "20bc4737affaa90f",
   "lastOpenFiles": [
-    "控制算法/控制系统性能.md",
-    "控制算法/0_大纲.md",
-    "控制算法/传递函数.md",
     "控制算法/H桥逆变器模型.md",
+    "马原/思维导图.md",
+    "控制算法/0_大纲.md",
+    "控制算法/不同阶数的系统.md",
+    "马原/未命名.canvas",
+    "马原/未命名.base",
+    "马原",
     "控制算法/Buck变换器系统模型.md",
+    "控制算法/控制算法最终作业思维导图.canvas",
+    "控制算法/控制系统性能.md",
+    "控制算法/劳斯判据.md",
+    "控制算法/传递函数.md",
     "控制算法/拉普拉斯变换.md",
     "控制算法/频率特性基本概念.md",
     "控制算法/复阻抗法.md",
     "控制算法/根轨迹法概念及规则.md",
-    "控制算法/劳斯判据.md",
     "().md",
     "控制算法/零输入响应.md",
     "控制算法/零状态响应.md",
     "控制算法/微分方程.md",
-    "控制算法/控制算法最终作业思维导图.canvas",
     "控制算法/狄拉克函数.md",
     "控制算法/状态空间方程.md",
-    "控制算法/不同阶数的系统.md",
     "控制算法/不定积分怎么理解.md",
     "控制算法/图片",
     "控制算法/图片/Pasted image 20251222154159.png",

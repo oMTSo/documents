@@ -4,16 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "52c617512b0db30b",
+        "id": "7834f931b6c5a82f",
         "type": "split",
         "children": [
           {
-            "id": "fd2ce3b62883f448",
+            "id": "5e12fbb71044825a",
             "type": "tabs",
-            "dimension": 43.96467124631992,
             "children": [
               {
-                "id": "fe86ee1ca0dad95f",
+                "id": "ad384c3f8359a7db",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -29,12 +28,11 @@
             ]
           },
           {
-            "id": "4d5b8267cb2c959f",
+            "id": "810118700b3d4e0c",
             "type": "tabs",
-            "dimension": 56.03532875368008,
             "children": [
               {
-                "id": "00aedd4f835af4bd",
+                "id": "708450f2bc78c325",
                 "type": "leaf",
                 "state": {
                   "type": "mindmap",
@@ -219,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20bc4737affaa90f",
+  "active": "ad384c3f8359a7db",
   "lastOpenFiles": [
     "控制算法/H桥逆变器模型.md",
     "马原/思维导图.md",
